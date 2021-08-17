@@ -1,0 +1,1200 @@
+18:47:19.156 [main] INFO  june28_Log4j2.LogTest - Click on the Sign Button
+18:47:22.776 [main] INFO  june28_Log4j2.LogTest - Entered Email and password
+18:47:24.159 [main] INFO  june28_Log4j2.LogTest - Loged into the page
+18:49:17.888 [main] INFO  june28_Log4j2.LogTest - onStart method started
+18:49:42.741 [main] INFO  june28_Log4j2.LogTest - New Test StartedLogin
+18:49:42.741 [main] INFO  june28_Log4j2.LogTest - Click on the Sign Button
+18:49:48.438 [main] INFO  june28_Log4j2.LogTest - Entered Email and password
+18:49:49.351 [main] INFO  june28_Log4j2.LogTest - Loged into the page
+18:49:51.970 [main] INFO  june28_Log4j2.LogTest - onTestSuccess MethodLogin
+18:49:52.502 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+19:04:50.054 [main] INFO  june28_Log4j2.LogTest - onStart method started
+19:05:11.048 [main] INFO  june28_Log4j2.LogTest - New Test StartedLogin
+19:05:11.050 [main] INFO  june28_Log4j2.LogTest - Click on the Sign Button
+19:05:11.050 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+19:05:11.089 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+19:05:11.097 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (59347f6207a99853a2326be493ec40b1)] -> link text: Sign in]
+19:05:15.094 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (59347f6207a99853a2326be493ec40b1)] -> link text: Sign in]
+19:05:15.098 [main] INFO  june28_Log4j2.LogTest - Entered Email and password
+19:05:15.099 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+19:05:16.082 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+19:05:16.639 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+19:05:16.668 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+19:05:17.020 [main] INFO  june28_Log4j2.LogTest - Loged into the page
+19:05:17.022 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+19:05:17.051 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+19:05:17.051 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (59347f6207a99853a2326be493ec40b1)] -> name: SubmitLogin]
+19:05:23.640 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (59347f6207a99853a2326be493ec40b1)] -> name: SubmitLogin]
+19:05:23.709 [main] INFO  june28_Log4j2.LogTest - onTestSuccess MethodLogin
+19:05:23.986 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+21:14:45.301 [main] INFO  june28_Log4j2.LogTest - onStart method started
+21:15:12.618 [main] INFO  june28_Log4j2.LogTest - New Test StartedLogin
+21:15:12.647 [main] ERROR june28_Log4j2.LogTest - onTestFailure MethodLogin
+21:15:15.812 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+21:18:33.099 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+21:18:33.579 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+21:18:33.607 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (21061b461d6254e16667e1c455173a65)] -> link text: Sign in]
+21:18:39.265 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (21061b461d6254e16667e1c455173a65)] -> link text: Sign in]
+21:18:39.269 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+21:18:39.575 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+21:18:40.249 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+21:18:40.370 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+21:18:40.719 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+21:18:40.771 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+21:18:40.775 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (21061b461d6254e16667e1c455173a65)] -> name: SubmitLogin]
+21:18:45.474 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (21061b461d6254e16667e1c455173a65)] -> name: SubmitLogin]
+21:22:55.809 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+21:22:56.318 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+21:22:56.333 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ec792bef4a5e689e473738e08c850951)] -> link text: Sign in]
+21:23:00.966 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (ec792bef4a5e689e473738e08c850951)] -> link text: Sign in]
+21:23:00.968 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+21:23:01.158 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+21:23:01.773 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+21:23:01.822 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+21:23:02.206 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+21:23:02.259 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+21:23:02.263 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (ec792bef4a5e689e473738e08c850951)] -> name: SubmitLogin]
+21:23:05.442 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (ec792bef4a5e689e473738e08c850951)] -> name: SubmitLogin]
+19:37:59.776 [main] DEBUG june28_Log4j2.LogTest - i am from debug
+19:37:59.841 [main] ERROR june28_Log4j2.LogTest - i am from error
+19:37:59.841 [main] INFO  june28_Log4j2.LogTest - i am from info
+19:37:59.841 [main] FATAL june28_Log4j2.LogTest - i am from fatal===
+20:07:59.587 [main] DEBUG june28_Log4j2.LogTest - i am from debug
+20:07:59.613 [main] ERROR june28_Log4j2.LogTest - i am from error
+20:07:59.613 [main] INFO  june28_Log4j2.LogTest - i am from info
+20:07:59.614 [main] FATAL june28_Log4j2.LogTest - i am from fatal===
+20:12:38.439 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+20:12:38.625 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+20:12:38.636 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (49e6ab4464b3a921ae0651f59a8d60e9)] -> link text: Sign in]
+20:12:40.667 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (49e6ab4464b3a921ae0651f59a8d60e9)] -> link text: Sign in]
+20:12:40.667 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+20:12:40.703 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+20:12:40.838 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+20:12:40.862 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+20:12:40.973 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+20:12:40.994 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+20:12:40.997 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (49e6ab4464b3a921ae0651f59a8d60e9)] -> name: SubmitLogin]
+20:12:44.240 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (49e6ab4464b3a921ae0651f59a8d60e9)] -> name: SubmitLogin]
+20:13:48.117 [main] INFO  june28_Log4j2.LogTest - onStart method started
+20:13:57.344 [main] INFO  june28_Log4j2.LogTest - New Test StartedLogin
+20:13:57.349 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+20:13:57.378 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+20:13:57.387 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (908b3a82ca50ad6f9adce8e3ddba6b69)] -> link text: Sign in]
+20:13:59.396 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (908b3a82ca50ad6f9adce8e3ddba6b69)] -> link text: Sign in]
+20:13:59.399 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+20:13:59.426 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+20:13:59.548 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+20:13:59.573 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+20:13:59.680 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+20:13:59.706 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+20:13:59.706 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (908b3a82ca50ad6f9adce8e3ddba6b69)] -> name: SubmitLogin]
+20:14:01.501 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (908b3a82ca50ad6f9adce8e3ddba6b69)] -> name: SubmitLogin]
+20:14:01.516 [main] INFO  june28_Log4j2.LogTest - onTestSuccess MethodLogin
+20:14:02.132 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+20:18:53.997 [main] INFO  june28_Log4j2.LogTest - onStart method started
+20:19:04.143 [main] INFO  june28_Log4j2.LogTest - New Test StartedLogin
+20:19:04.149 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+20:19:04.178 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+20:19:04.187 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5dadaa58f4adbb4cb41e76d86c57e2c9)] -> link text: Sign in]
+20:19:06.288 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (5dadaa58f4adbb4cb41e76d86c57e2c9)] -> link text: Sign in]
+20:19:06.291 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+20:19:06.326 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+20:19:06.445 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+20:19:06.473 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+20:19:06.580 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+20:19:06.609 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+20:19:06.609 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (5dadaa58f4adbb4cb41e76d86c57e2c9)] -> name: SubmitLogin]
+20:19:08.729 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (5dadaa58f4adbb4cb41e76d86c57e2c9)] -> name: SubmitLogin]
+20:19:08.733 [main] INFO  june28_Log4j2.LogTest - onTestSuccess MethodLogin
+20:19:09.561 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+22:31:32.521 [main] INFO  june28_Log4j2.LogTest - onStart method started
+22:31:32.823 [main] INFO  june28_Log4j2.LogTest - New Test StartedLogin
+22:31:32.828 [main] INFO  june28_Log4j2.LogTest - onTestSkipped MethodLogin
+22:31:33.348 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+22:40:17.682 [main] INFO  june28_Log4j2.LogTest - onStart method started
+22:40:29.986 [main] INFO  june28_Log4j2.LogTest - New Test StartedLogin
+22:40:29.996 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+22:40:30.038 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+22:40:30.051 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d063e6c60c5b238ee153b9bd3530f0d6)] -> link text: Sign in]
+22:40:32.181 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (d063e6c60c5b238ee153b9bd3530f0d6)] -> link text: Sign in]
+22:40:32.189 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+22:40:32.220 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+22:40:32.345 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+22:40:32.373 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+22:40:32.474 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+22:40:32.501 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+22:40:32.501 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d063e6c60c5b238ee153b9bd3530f0d6)] -> name: SubmitLogin]
+22:40:34.796 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (d063e6c60c5b238ee153b9bd3530f0d6)] -> name: SubmitLogin]
+22:40:34.800 [main] INFO  june28_Log4j2.LogTest - onTestSuccess MethodLogin
+22:40:35.562 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+22:45:06.087 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+22:45:06.140 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+22:45:06.147 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (90353b9cd01f61dc70e30cc6b65ccae1)] -> link text: Sign in]
+22:45:09.895 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (90353b9cd01f61dc70e30cc6b65ccae1)] -> link text: Sign in]
+22:45:09.896 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+22:45:09.937 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+22:45:09.938 [main] INFO  june28_Log4j2.LogTest - Exception occured: java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+22:46:07.829 [main] INFO  june28_Log4j2.LogTest - onStart method started
+22:46:18.505 [main] INFO  june28_Log4j2.LogTest - New Test StartedLogin
+22:46:18.510 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+22:46:18.542 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+22:46:18.550 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (04f0544cb02dbd725641e7d0b65ed24a)] -> link text: Sign in]
+22:46:21.074 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (04f0544cb02dbd725641e7d0b65ed24a)] -> link text: Sign in]
+22:46:21.079 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+22:46:21.110 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+22:46:21.111 [main] INFO  june28_Log4j2.LogTest - Exception occured: java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+22:46:21.117 [main] ERROR june28_Log4j2.LogTest - onTestFailure MethodLogin
+22:46:21.755 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+22:49:34.154 [main] INFO  june28_Log4j2.LogTest - onStart method started
+22:49:43.806 [main] INFO  june28_Log4j2.LogTest - New Test StartedLogin
+22:49:43.812 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+22:49:43.842 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+22:49:43.849 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b183aad69b95cfd7716734be83cd0358)] -> link text: Sign in]
+22:49:45.873 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (b183aad69b95cfd7716734be83cd0358)] -> link text: Sign in]
+22:49:45.877 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+22:49:45.905 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+22:49:46.045 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+22:49:46.073 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+22:49:46.133 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+22:49:46.159 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+22:49:46.160 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b183aad69b95cfd7716734be83cd0358)] -> name: SubmitLogin]
+22:49:48.242 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (b183aad69b95cfd7716734be83cd0358)] -> name: SubmitLogin]
+22:49:48.246 [main] INFO  june28_Log4j2.LogTest - onTestSuccess MethodLogin
+22:49:48.940 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+22:55:16.357 [main] INFO  june28_Log4j2.LogTest - onStart method started
+22:55:26.227 [main] INFO  june28_Log4j2.LogTest - New Test StartedLogin
+22:55:26.233 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+22:55:26.266 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+22:55:26.276 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (e6a76ec141240cd585c403a849452a7e)] -> link text: Sign in]
+22:55:28.261 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (e6a76ec141240cd585c403a849452a7e)] -> link text: Sign in]
+22:55:28.271 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+22:55:28.301 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+22:55:28.302 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (e6a76ec141240cd585c403a849452a7e)] -> name: SubmitLogin]
+22:55:29.739 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (e6a76ec141240cd585c403a849452a7e)] -> name: SubmitLogin]
+22:55:29.751 [main] INFO  june28_Log4j2.LogTest - onTestSuccess MethodLogin
+22:55:38.543 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+22:55:38.543 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+22:55:38.572 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+22:55:38.573 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (046928efa2afb5be55773d4c850f92c8)] -> link text: Sign in]
+22:55:40.766 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (046928efa2afb5be55773d4c850f92c8)] -> link text: Sign in]
+22:55:40.770 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+22:55:40.805 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+22:55:40.932 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+22:55:40.955 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+22:55:41.072 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin2
+22:55:41.426 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+22:56:40.982 [main] INFO  june28_Log4j2.LogTest - onStart method started
+22:56:52.071 [main] INFO  june28_Log4j2.LogTest - New Test StartedLogin
+22:56:52.078 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+22:56:52.109 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+22:56:52.124 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (51e9b033b7836224e3baf92a183de233)] -> link text: Sign in]
+22:56:54.230 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (51e9b033b7836224e3baf92a183de233)] -> link text: Sign in]
+22:56:54.233 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+22:56:54.265 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+22:56:54.265 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (51e9b033b7836224e3baf92a183de233)] -> name: SubmitLogin]
+22:56:55.440 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (51e9b033b7836224e3baf92a183de233)] -> name: SubmitLogin]
+22:56:55.451 [main] INFO  june28_Log4j2.LogTest - onTestSuccess MethodLogin
+22:57:04.017 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+22:57:04.017 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+22:57:04.047 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+22:57:04.048 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d14545a88071d8cfb1b6b7ba52833934)] -> link text: Sign in]
+22:57:06.038 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (d14545a88071d8cfb1b6b7ba52833934)] -> link text: Sign in]
+22:57:06.049 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+22:57:06.077 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+22:57:06.202 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+22:57:06.227 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+22:57:06.338 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin2
+22:57:08.639 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+22:58:34.847 [main] INFO  june28_Log4j2.LogTest - onStart method started
+22:58:44.526 [main] INFO  june28_Log4j2.LogTest - New Test StartedLogin
+22:58:44.534 [main] INFO  june28_Log4j2.LogTest - onTestSuccess MethodLogin
+22:58:54.068 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+22:58:54.069 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+22:58:54.098 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+22:58:54.105 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (48081845f22def34a6345fa4dd0abbb5)] -> link text: Sign in]
+22:58:56.639 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (48081845f22def34a6345fa4dd0abbb5)] -> link text: Sign in]
+22:58:56.641 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+22:58:56.683 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+22:58:56.808 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+22:58:56.834 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+22:58:56.944 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin2
+22:58:57.225 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+23:00:32.178 [main] INFO  june28_Log4j2.LogTest - onStart method started
+23:00:54.351 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+23:00:54.352 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+23:00:58.078 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+23:00:58.085 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (161f41abc97182c0f8952fc9103079d2)] -> link text: Sign in]
+23:01:00.402 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (161f41abc97182c0f8952fc9103079d2)] -> link text: Sign in]
+23:01:00.407 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+23:01:01.361 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+23:01:01.537 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+23:01:01.564 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+23:01:01.683 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+23:01:01.727 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+23:01:01.728 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (161f41abc97182c0f8952fc9103079d2)] -> name: SubmitLogin]
+23:01:03.968 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (161f41abc97182c0f8952fc9103079d2)] -> name: SubmitLogin]
+23:01:03.978 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin2
+23:01:04.602 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+23:10:40.177 [main] INFO  june28_Log4j2.LogTest - onStart method started
+23:10:40.594 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+23:10:40.599 [main] INFO  june28_Log4j2.LogTest - onTestSkipped Methodlogin2
+23:10:41.081 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+23:12:24.961 [main] INFO  june28_Log4j2.LogTest - onStart method started
+23:12:25.369 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+23:12:25.377 [main] INFO  june28_Log4j2.LogTest - onTestSkipped Methodlogin2
+23:12:25.903 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+23:14:00.783 [main] INFO  june28_Log4j2.LogTest - onStart method started
+23:14:10.974 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+23:14:10.975 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+23:14:11.029 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+23:14:11.038 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (cf504de65c664beb04704b7a2e4dc099)] -> link text: Sign in]
+23:14:13.110 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (cf504de65c664beb04704b7a2e4dc099)] -> link text: Sign in]
+23:14:13.114 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+23:14:14.026 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+23:14:14.164 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+23:14:14.187 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+23:14:14.298 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+23:14:14.328 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+23:14:14.329 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (cf504de65c664beb04704b7a2e4dc099)] -> name: SubmitLogin]
+23:14:16.151 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (cf504de65c664beb04704b7a2e4dc099)] -> name: SubmitLogin]
+23:14:16.157 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin2
+23:14:16.671 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+23:14:42.651 [main] INFO  june28_Log4j2.LogTest - onStart method started
+23:14:42.997 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+23:14:43.001 [main] INFO  june28_Log4j2.LogTest - onTestSkipped Methodlogin2
+23:14:43.487 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+23:15:18.842 [main] INFO  june28_Log4j2.LogTest - onStart method started
+23:15:19.186 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+23:15:19.190 [main] INFO  june28_Log4j2.LogTest - onTestSkipped Methodlogin2
+23:15:19.630 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+23:16:20.986 [main] INFO  june28_Log4j2.LogTest - onStart method started
+23:17:15.916 [main] INFO  june28_Log4j2.LogTest - onStart method started
+23:18:15.776 [main] INFO  june28_Log4j2.LogTest - onStart method started
+23:18:25.575 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+23:18:25.576 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+23:18:25.608 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+23:18:25.618 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (6ebc0767d2ab517d47cac36d22b3a5e7)] -> link text: Sign in]
+23:18:28.238 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (6ebc0767d2ab517d47cac36d22b3a5e7)] -> link text: Sign in]
+23:18:28.242 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+23:18:29.216 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+23:18:29.358 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+23:18:29.384 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+23:18:29.496 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+23:18:29.523 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+23:18:29.524 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (6ebc0767d2ab517d47cac36d22b3a5e7)] -> name: SubmitLogin]
+23:18:31.431 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (6ebc0767d2ab517d47cac36d22b3a5e7)] -> name: SubmitLogin]
+23:18:31.440 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin2
+23:18:31.986 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+23:20:50.909 [main] INFO  june28_Log4j2.LogTest - onStart method started
+23:20:51.267 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+23:20:51.277 [main] INFO  june28_Log4j2.LogTest - onTestSkipped Methodlogin2
+23:20:51.799 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+23:22:11.783 [main] INFO  june28_Log4j2.LogTest - onStart method started
+23:22:12.186 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+23:22:12.191 [main] INFO  june28_Log4j2.LogTest - onTestSkipped Methodlogin2
+23:22:12.683 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+23:23:40.493 [main] INFO  june28_Log4j2.LogTest - onStart method started
+23:24:01.285 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+23:24:01.286 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+23:24:01.332 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+23:24:01.347 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d5739c67be332b4fd150ac242e794760)] -> link text: Sign in]
+23:24:06.663 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (d5739c67be332b4fd150ac242e794760)] -> link text: Sign in]
+23:24:07.186 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+23:24:07.218 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+23:24:07.358 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+23:24:07.390 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+23:24:07.529 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+23:24:07.580 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+23:24:07.581 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d5739c67be332b4fd150ac242e794760)] -> name: SubmitLogin]
+23:24:09.604 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (d5739c67be332b4fd150ac242e794760)] -> name: SubmitLogin]
+23:24:09.608 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin2
+23:24:10.137 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+10:44:13.836 [main] INFO  june28_Log4j2.LogTest - onStart method started
+10:44:47.591 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+10:44:47.592 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+10:44:47.658 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+10:44:47.668 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d4e8954b5061182d2d55e2764c068723)] -> link text: Sign in]
+10:44:50.697 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (d4e8954b5061182d2d55e2764c068723)] -> link text: Sign in]
+10:44:50.700 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+10:44:51.271 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+10:44:52.574 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+10:44:52.606 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+10:44:52.756 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+10:44:52.781 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+10:44:52.782 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d4e8954b5061182d2d55e2764c068723)] -> name: SubmitLogin]
+10:44:54.755 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (d4e8954b5061182d2d55e2764c068723)] -> name: SubmitLogin]
+10:44:54.764 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin2
+10:45:17.501 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin3UsingExcel
+10:45:17.502 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+10:45:23.586 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+10:45:23.587 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (4a1a647ff871c04b6ba8a9b57974962b)] -> link text: Sign in]
+10:45:25.634 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (4a1a647ff871c04b6ba8a9b57974962b)] -> link text: Sign in]
+10:45:25.751 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+10:45:26.614 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+10:45:26.757 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+10:45:26.786 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+10:45:26.924 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+10:45:26.970 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+10:45:26.971 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (4a1a647ff871c04b6ba8a9b57974962b)] -> name: SubmitLogin]
+10:45:29.222 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (4a1a647ff871c04b6ba8a9b57974962b)] -> name: SubmitLogin]
+10:45:29.225 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin3UsingExcel
+10:45:42.889 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+14:30:36.994 [main] INFO  june28_Log4j2.LogTest - onStart method started
+14:30:51.264 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+14:30:51.265 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+14:30:51.330 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+14:30:51.362 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0ce0cabf8bc63fbc62d73a9983f9f028)] -> link text: Sign in]
+14:30:53.969 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (0ce0cabf8bc63fbc62d73a9983f9f028)] -> link text: Sign in]
+14:30:53.971 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+14:30:53.999 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+14:30:54.133 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+14:30:54.160 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+14:30:54.260 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+14:30:54.286 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+14:30:54.287 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0ce0cabf8bc63fbc62d73a9983f9f028)] -> name: SubmitLogin]
+14:30:56.226 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (0ce0cabf8bc63fbc62d73a9983f9f028)] -> name: SubmitLogin]
+14:30:56.231 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin2
+14:31:05.559 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin3
+14:31:05.559 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+14:31:05.596 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+14:31:05.596 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (6a72f0a2dc2f45fee72e0e1477a4b04d)] -> link text: Sign in]
+14:31:07.685 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (6a72f0a2dc2f45fee72e0e1477a4b04d)] -> link text: Sign in]
+14:31:07.720 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin3
+14:31:16.433 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin3UsingExcel
+14:31:16.434 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+14:31:16.463 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+14:31:16.464 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (044ad874651b1f535a91714355fe1a1f)] -> link text: Sign in]
+14:31:16.890 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (044ad874651b1f535a91714355fe1a1f)] -> link text: Sign in]
+14:31:16.925 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+14:31:21.077 [main] INFO  june28_Log4j2.LogTest - Exception occured: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=92.0.4515.107)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HOME', ip: '192.168.1.11', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.107, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\Kashyap\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:65213}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 044ad874651b1f535a91714355fe1a1f
+*** Element info: {Using=xpath, value=//input[@id='email']}
+14:31:21.083 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin3UsingExcel
+14:31:21.304 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+14:33:44.017 [main] INFO  june28_Log4j2.LogTest - onStart method started
+14:33:55.548 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+14:33:55.549 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+14:33:55.584 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+14:33:55.594 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (f4a1f6a3c073aee59f76d2f3727d3a30)] -> link text: Sign in]
+14:33:57.816 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (f4a1f6a3c073aee59f76d2f3727d3a30)] -> link text: Sign in]
+14:33:57.818 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+14:33:57.855 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+14:33:58.005 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+14:33:58.046 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+14:33:58.186 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+14:33:58.213 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+14:33:58.214 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (f4a1f6a3c073aee59f76d2f3727d3a30)] -> name: SubmitLogin]
+14:34:00.713 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (f4a1f6a3c073aee59f76d2f3727d3a30)] -> name: SubmitLogin]
+14:34:00.718 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin2
+14:34:09.474 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin3
+14:34:09.474 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+14:34:09.502 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+14:34:09.502 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (be61fba899687ee71673ded3b25fd3a2)] -> link text: Sign in]
+14:34:11.598 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (be61fba899687ee71673ded3b25fd3a2)] -> link text: Sign in]
+14:34:11.604 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin3
+14:34:11.863 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+14:35:56.962 [main] INFO  june28_Log4j2.LogTest - onStart method started
+14:36:07.947 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+14:36:07.948 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+14:36:07.985 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+14:36:07.993 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (724e8da996e095aa1ece8d1f7d593a85)] -> link text: Sign in]
+14:36:10.583 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (724e8da996e095aa1ece8d1f7d593a85)] -> link text: Sign in]
+14:36:10.588 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+14:36:10.626 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+14:36:10.749 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+14:36:10.772 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+14:36:10.886 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+14:36:10.915 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+14:36:10.916 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (724e8da996e095aa1ece8d1f7d593a85)] -> name: SubmitLogin]
+14:36:13.224 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (724e8da996e095aa1ece8d1f7d593a85)] -> name: SubmitLogin]
+14:36:13.234 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin2
+14:36:22.070 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin3
+14:36:22.070 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+14:36:22.106 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+14:36:22.107 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (7396c6f5a1a7eba00f89fec88a87234e)] -> link text: Sign in]
+14:36:23.537 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (7396c6f5a1a7eba00f89fec88a87234e)] -> link text: Sign in]
+14:36:23.560 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+14:36:24.337 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+14:36:24.475 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+14:36:24.497 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+14:36:29.613 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+14:36:49.797 [main] INFO  june28_Log4j2.LogTest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Sign out"}
+  (Session info: chrome=92.0.4515.107)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HOME', ip: '192.168.1.11', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.107, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\Kashyap\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:65286}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7396c6f5a1a7eba00f89fec88a87234e
+*** Element info: {Using=link text, value=Sign out}
+14:36:49.803 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin3
+14:36:50.054 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+14:38:33.195 [main] INFO  june28_Log4j2.LogTest - onStart method started
+14:38:43.873 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin2
+14:38:43.875 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+14:38:43.913 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+14:38:43.924 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (62bf19e2b1019c56fc91e79ad3a41fa9)] -> link text: Sign in]
+14:38:46.164 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (62bf19e2b1019c56fc91e79ad3a41fa9)] -> link text: Sign in]
+14:38:46.166 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+14:38:46.195 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+14:38:46.317 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+14:38:46.343 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+14:38:46.444 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+14:38:46.468 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+14:38:46.468 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (62bf19e2b1019c56fc91e79ad3a41fa9)] -> name: SubmitLogin]
+14:38:48.276 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (62bf19e2b1019c56fc91e79ad3a41fa9)] -> name: SubmitLogin]
+14:38:48.282 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin2
+14:38:57.385 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin3
+14:38:57.386 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+14:38:57.414 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+14:38:57.414 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (94d9e9f792ccb7b5375b577360de0d2f)] -> link text: Sign in]
+14:39:00.305 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (94d9e9f792ccb7b5375b577360de0d2f)] -> link text: Sign in]
+14:39:00.319 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+14:39:00.343 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+14:39:00.466 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+14:39:00.488 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+14:39:00.599 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+14:39:20.721 [main] INFO  june28_Log4j2.LogTest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Sign out"}
+  (Session info: chrome=92.0.4515.107)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HOME', ip: '192.168.1.11', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.107, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\Kashyap\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:64648}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 94d9e9f792ccb7b5375b577360de0d2f
+*** Element info: {Using=link text, value=Sign out}
+14:39:20.726 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin3
+14:39:20.991 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+15:08:41.367 [main] INFO  june28_Log4j2.LogTest - onStart method started
+15:08:55.976 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin3
+15:08:55.976 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+15:08:56.020 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+15:08:56.032 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c0bfc45c0a23b1e84a979c3838e5215f)] -> link text: Sign in]
+15:09:03.439 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (c0bfc45c0a23b1e84a979c3838e5215f)] -> link text: Sign in]
+15:09:03.464 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:09:03.490 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:09:03.648 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:09:03.679 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:09:03.802 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+15:09:03.833 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+15:09:03.834 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c0bfc45c0a23b1e84a979c3838e5215f)] -> name: SubmitLogin]
+15:09:08.521 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (c0bfc45c0a23b1e84a979c3838e5215f)] -> name: SubmitLogin]
+15:09:08.521 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+15:09:08.572 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+15:09:08.572 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c0bfc45c0a23b1e84a979c3838e5215f)] -> link text: Sign out]
+15:09:11.075 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (c0bfc45c0a23b1e84a979c3838e5215f)] -> link text: Sign out]
+15:09:11.076 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:09:11.097 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:09:11.231 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:09:11.248 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:09:11.363 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+15:09:11.379 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+15:09:11.384 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c0bfc45c0a23b1e84a979c3838e5215f)] -> name: SubmitLogin]
+15:09:14.125 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (c0bfc45c0a23b1e84a979c3838e5215f)] -> name: SubmitLogin]
+15:09:14.125 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+15:09:34.211 [main] INFO  june28_Log4j2.LogTest - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"Sign out"}
+  (Session info: chrome=92.0.4515.107)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HOME', ip: '192.168.1.11', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.107, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\Kashyap\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:64181}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c0bfc45c0a23b1e84a979c3838e5215f
+*** Element info: {Using=link text, value=Sign out}
+15:09:34.222 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin3
+15:09:34.733 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+15:15:38.516 [main] INFO  june28_Log4j2.LogTest - onStart method started
+15:15:50.548 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin3
+15:15:50.549 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+15:15:50.583 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+15:15:50.590 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (06ad3a3e8d646f504cbd4fb39125a054)] -> link text: Sign in]
+15:15:55.050 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (06ad3a3e8d646f504cbd4fb39125a054)] -> link text: Sign in]
+15:15:55.067 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:15:55.099 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:15:55.225 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:15:55.249 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:15:55.361 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+15:15:55.386 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+15:15:55.386 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (06ad3a3e8d646f504cbd4fb39125a054)] -> name: SubmitLogin]
+15:15:57.330 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (06ad3a3e8d646f504cbd4fb39125a054)] -> name: SubmitLogin]
+15:15:57.330 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+15:15:57.370 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+15:15:57.411 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+15:15:57.443 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+15:15:57.444 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (06ad3a3e8d646f504cbd4fb39125a054)] -> link text: Sign out]
+15:15:59.964 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (06ad3a3e8d646f504cbd4fb39125a054)] -> link text: Sign out]
+15:15:59.972 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:15:59.996 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:16:00.149 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:16:00.177 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:16:00.283 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+15:16:00.313 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+15:16:00.314 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (06ad3a3e8d646f504cbd4fb39125a054)] -> name: SubmitLogin]
+15:16:01.513 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (06ad3a3e8d646f504cbd4fb39125a054)] -> name: SubmitLogin]
+15:16:01.514 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+15:16:01.567 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+15:16:01.610 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin3
+15:16:02.164 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+15:20:39.063 [main] INFO  june28_Log4j2.LogTest - onStart method started
+15:20:51.474 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin4
+15:20:51.486 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+15:20:51.518 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+15:20:51.528 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (8328cc2381760aaea720a51c1c5b523b)] -> link text: Sign in]
+15:20:55.201 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (8328cc2381760aaea720a51c1c5b523b)] -> link text: Sign in]
+15:20:55.215 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:20:55.252 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:20:55.340 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:20:55.369 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:20:55.470 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+15:20:55.502 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+15:20:55.542 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin4
+15:20:56.062 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+15:22:17.221 [main] INFO  june28_Log4j2.LogTest - onStart method started
+15:22:29.698 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin4
+15:22:29.704 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+15:22:29.738 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+15:22:29.746 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (f603673db70424b6cd145a7b81da579f)] -> link text: Sign in]
+15:22:32.131 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (f603673db70424b6cd145a7b81da579f)] -> link text: Sign in]
+15:22:32.140 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:22:32.170 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:22:32.242 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:22:32.263 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:22:32.353 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+15:22:32.378 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+15:22:32.409 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin4
+15:22:32.906 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+15:23:49.115 [main] INFO  june28_Log4j2.LogTest - onStart method started
+15:24:00.002 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin4
+15:24:00.008 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+15:24:00.042 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+15:24:00.049 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d943be84d764b4417bcdbf6e6f821e57)] -> link text: Sign in]
+15:24:02.259 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (d943be84d764b4417bcdbf6e6f821e57)] -> link text: Sign in]
+15:24:02.274 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:24:02.306 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:24:02.377 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:24:02.400 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:24:02.492 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+15:24:02.526 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+15:24:02.558 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin4
+15:24:03.098 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+15:27:09.026 [main] INFO  june28_Log4j2.LogTest - onStart method started
+15:27:21.313 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin4
+15:27:21.324 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+15:27:21.368 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+15:27:21.375 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (7746f7c247dff44907b8daa1d1b1d4b4)] -> link text: Sign in]
+15:27:24.500 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (7746f7c247dff44907b8daa1d1b1d4b4)] -> link text: Sign in]
+15:27:24.510 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:27:24.552 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:27:24.633 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:27:24.658 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:27:24.759 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+15:27:24.794 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+15:27:24.830 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin4
+15:27:25.376 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+15:29:23.017 [main] INFO  june28_Log4j2.LogTest - onStart method started
+15:29:35.180 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin4
+15:29:35.187 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+15:29:35.220 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+15:29:35.230 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (86c5c776549c9169549ebfdb8be7ad7e)] -> link text: Sign in]
+15:29:37.663 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (86c5c776549c9169549ebfdb8be7ad7e)] -> link text: Sign in]
+15:29:37.671 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:29:37.707 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:29:37.779 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:29:37.804 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:29:37.901 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+15:29:37.932 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+15:29:37.963 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin4
+15:29:38.514 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+15:34:21.390 [main] INFO  june28_Log4j2.LogTest - onStart method started
+15:34:39.121 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin4
+15:34:39.130 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+15:34:39.178 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+15:34:39.188 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (a57d53fd179b553a222548148193a316)] -> link text: Sign in]
+15:34:43.419 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (a57d53fd179b553a222548148193a316)] -> link text: Sign in]
+15:34:43.426 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:34:43.462 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:34:43.533 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:34:43.558 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:34:43.648 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+15:34:43.672 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+15:34:43.672 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (a57d53fd179b553a222548148193a316)] -> name: SubmitLogin]
+15:34:45.632 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (a57d53fd179b553a222548148193a316)] -> name: SubmitLogin]
+15:34:45.632 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+15:34:45.666 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+15:34:45.695 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin4
+15:34:46.596 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+15:37:53.133 [main] INFO  june28_Log4j2.LogTest - onStart method started
+15:38:15.783 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin3
+15:38:15.784 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+15:38:15.822 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+15:38:15.832 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (eddf9669472d68630ac7695a0b55c092)] -> link text: Sign in]
+15:38:18.975 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (eddf9669472d68630ac7695a0b55c092)] -> link text: Sign in]
+15:38:18.992 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:38:19.022 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:38:19.180 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:38:19.208 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:38:19.338 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+15:38:19.365 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+15:38:19.366 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (eddf9669472d68630ac7695a0b55c092)] -> name: SubmitLogin]
+15:38:21.266 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (eddf9669472d68630ac7695a0b55c092)] -> name: SubmitLogin]
+15:38:21.266 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+15:38:21.309 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+15:38:21.337 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+15:38:21.368 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+15:38:21.369 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (eddf9669472d68630ac7695a0b55c092)] -> link text: Sign out]
+15:38:25.971 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (eddf9669472d68630ac7695a0b55c092)] -> link text: Sign out]
+15:38:25.976 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:38:25.995 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:38:26.135 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:38:26.153 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:38:26.268 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+15:38:26.287 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+15:38:26.288 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (eddf9669472d68630ac7695a0b55c092)] -> name: SubmitLogin]
+15:38:27.702 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (eddf9669472d68630ac7695a0b55c092)] -> name: SubmitLogin]
+15:38:27.703 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+15:38:27.723 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+15:38:27.748 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin3
+15:38:28.291 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+15:47:14.685 [main] INFO  june28_Log4j2.LogTest - onStart method started
+15:47:34.366 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin3
+15:47:34.375 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+15:47:34.408 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+15:47:34.418 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (8f9059185cd4e71c77ebbd7d2bedff00)] -> link text: Sign in]
+15:47:42.515 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (8f9059185cd4e71c77ebbd7d2bedff00)] -> link text: Sign in]
+15:47:42.549 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:47:42.572 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:47:42.718 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:47:42.748 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:47:42.879 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+15:47:42.905 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+15:47:42.906 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (8f9059185cd4e71c77ebbd7d2bedff00)] -> name: SubmitLogin]
+15:47:45.444 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (8f9059185cd4e71c77ebbd7d2bedff00)] -> name: SubmitLogin]
+15:47:45.444 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+15:47:45.480 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+15:47:45.506 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+15:47:45.537 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+15:47:45.538 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (8f9059185cd4e71c77ebbd7d2bedff00)] -> link text: Sign out]
+15:47:47.977 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (8f9059185cd4e71c77ebbd7d2bedff00)] -> link text: Sign out]
+15:47:47.983 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:47:48.002 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:47:48.156 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:47:48.181 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:47:48.331 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+15:47:48.353 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+15:47:48.354 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (8f9059185cd4e71c77ebbd7d2bedff00)] -> name: SubmitLogin]
+15:47:50.076 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (8f9059185cd4e71c77ebbd7d2bedff00)] -> name: SubmitLogin]
+15:47:50.077 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+15:47:50.098 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+15:47:50.125 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin3
+15:47:53.809 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+15:49:46.899 [main] INFO  june28_Log4j2.LogTest - onStart method started
+15:49:58.121 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin3
+15:49:58.135 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+15:49:58.181 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+15:49:58.192 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (58a7a27bdb59693ca6910b4d40c24209)] -> link text: Sign in]
+15:50:00.560 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (58a7a27bdb59693ca6910b4d40c24209)] -> link text: Sign in]
+15:50:00.594 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:50:00.650 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:50:00.833 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:50:00.869 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:50:00.987 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+15:50:01.014 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+15:50:01.014 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (58a7a27bdb59693ca6910b4d40c24209)] -> name: SubmitLogin]
+15:50:03.431 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (58a7a27bdb59693ca6910b4d40c24209)] -> name: SubmitLogin]
+15:50:03.431 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+15:50:03.455 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+15:50:03.481 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+15:50:03.510 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+15:50:03.511 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (58a7a27bdb59693ca6910b4d40c24209)] -> link text: Sign out]
+15:50:05.718 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (58a7a27bdb59693ca6910b4d40c24209)] -> link text: Sign out]
+15:50:05.724 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+15:50:05.742 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+15:50:05.869 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+15:50:05.887 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+15:50:06.005 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+15:50:06.027 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+15:50:06.028 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (58a7a27bdb59693ca6910b4d40c24209)] -> name: SubmitLogin]
+15:50:07.447 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (58a7a27bdb59693ca6910b4d40c24209)] -> name: SubmitLogin]
+15:50:07.447 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+15:50:07.469 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+15:50:07.494 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin3
+15:50:07.995 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+16:19:10.206 [main] INFO  june28_Log4j2.LogTest - onStart method started
+16:19:24.093 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin3
+16:19:24.102 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+16:19:24.145 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+16:19:24.159 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0f164cd0fbaa29cdb23adc198e33abf0)] -> link text: Sign in]
+16:19:27.305 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (0f164cd0fbaa29cdb23adc198e33abf0)] -> link text: Sign in]
+16:19:27.333 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+16:19:27.359 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+16:19:27.506 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+16:19:27.535 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+16:19:27.657 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+16:19:27.688 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+16:19:27.689 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0f164cd0fbaa29cdb23adc198e33abf0)] -> name: SubmitLogin]
+16:19:29.443 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (0f164cd0fbaa29cdb23adc198e33abf0)] -> name: SubmitLogin]
+16:19:29.444 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+16:19:29.566 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+16:19:29.592 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+16:19:29.620 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+16:19:29.621 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0f164cd0fbaa29cdb23adc198e33abf0)] -> link text: Sign out]
+16:19:31.784 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (0f164cd0fbaa29cdb23adc198e33abf0)] -> link text: Sign out]
+16:19:31.788 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+16:19:31.806 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+16:19:31.924 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+16:19:31.944 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+16:19:32.072 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+16:19:32.091 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+16:19:32.091 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0f164cd0fbaa29cdb23adc198e33abf0)] -> name: SubmitLogin]
+16:19:33.645 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (0f164cd0fbaa29cdb23adc198e33abf0)] -> name: SubmitLogin]
+16:19:33.646 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+16:19:33.665 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+16:19:33.689 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+16:19:33.710 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+16:19:33.711 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0f164cd0fbaa29cdb23adc198e33abf0)] -> link text: Sign out]
+16:19:35.898 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (0f164cd0fbaa29cdb23adc198e33abf0)] -> link text: Sign out]
+16:19:35.908 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin3
+16:19:36.420 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+16:25:19.752 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+16:25:19.811 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+16:25:19.821 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (21b9699b0558ab65cfc53e92fc2ee3f3)] -> link text: Sign in]
+16:25:22.052 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (21b9699b0558ab65cfc53e92fc2ee3f3)] -> link text: Sign in]
+16:25:22.056 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+16:25:22.090 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+16:25:22.166 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+16:25:22.188 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+16:25:22.275 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+16:25:22.304 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+16:25:22.320 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (21b9699b0558ab65cfc53e92fc2ee3f3)] -> name: SubmitLogin]
+16:25:23.537 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (21b9699b0558ab65cfc53e92fc2ee3f3)] -> name: SubmitLogin]
+16:25:23.537 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+16:25:23.565 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+16:30:21.423 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+16:30:21.500 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+16:30:21.510 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (93b0e6db6eb72c8f97a90739b28482c6)] -> link text: Sign in]
+16:30:24.383 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (93b0e6db6eb72c8f97a90739b28482c6)] -> link text: Sign in]
+16:30:24.387 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+16:30:24.434 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+16:30:24.516 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+16:30:24.540 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+16:30:24.640 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+16:30:24.668 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+16:30:24.673 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (93b0e6db6eb72c8f97a90739b28482c6)] -> name: SubmitLogin]
+16:30:26.239 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (93b0e6db6eb72c8f97a90739b28482c6)] -> name: SubmitLogin]
+16:30:26.239 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+16:30:26.267 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+16:32:05.570 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+16:32:05.622 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+16:32:05.632 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c74a4457405241271935d47fb798ffd7)] -> link text: Sign in]
+16:32:07.900 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (c74a4457405241271935d47fb798ffd7)] -> link text: Sign in]
+16:32:07.913 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+16:32:07.955 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+16:32:08.105 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+16:32:08.136 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+16:32:08.258 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+16:32:08.284 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+16:32:08.288 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c74a4457405241271935d47fb798ffd7)] -> name: SubmitLogin]
+16:32:10.709 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (c74a4457405241271935d47fb798ffd7)] -> name: SubmitLogin]
+16:32:10.709 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+16:32:10.733 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+16:32:10.758 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+16:32:10.787 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+16:32:10.787 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c74a4457405241271935d47fb798ffd7)] -> link text: Sign out]
+16:32:14.393 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (c74a4457405241271935d47fb798ffd7)] -> link text: Sign out]
+16:32:14.394 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+16:32:14.414 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+16:32:14.526 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+16:32:14.544 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+16:32:14.662 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+16:32:14.675 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+16:32:14.680 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c74a4457405241271935d47fb798ffd7)] -> name: SubmitLogin]
+16:32:17.465 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (c74a4457405241271935d47fb798ffd7)] -> name: SubmitLogin]
+16:32:17.465 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+16:32:17.482 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+16:32:17.507 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+16:32:17.530 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+16:32:17.531 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c74a4457405241271935d47fb798ffd7)] -> link text: Sign out]
+16:32:20.250 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (c74a4457405241271935d47fb798ffd7)] -> link text: Sign out]
+16:36:17.204 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+16:36:17.281 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+16:36:17.291 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (50680655eea0f17ed9554fd46688503d)] -> link text: Sign in]
+16:36:21.483 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (50680655eea0f17ed9554fd46688503d)] -> link text: Sign in]
+16:36:21.525 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+16:36:21.564 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+16:36:21.725 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+16:36:21.755 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+16:36:21.876 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+16:36:21.898 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+16:36:21.902 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (50680655eea0f17ed9554fd46688503d)] -> name: SubmitLogin]
+16:36:28.865 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (50680655eea0f17ed9554fd46688503d)] -> name: SubmitLogin]
+16:36:28.865 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+16:36:28.903 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+16:36:28.933 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+16:36:28.962 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+16:36:28.963 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (50680655eea0f17ed9554fd46688503d)] -> link text: Sign out]
+16:36:34.995 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (50680655eea0f17ed9554fd46688503d)] -> link text: Sign out]
+16:36:34.997 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+16:36:35.025 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+16:36:35.151 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+16:36:35.184 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+16:36:35.297 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+16:36:35.317 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+16:36:35.322 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (50680655eea0f17ed9554fd46688503d)] -> name: SubmitLogin]
+16:36:37.900 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (50680655eea0f17ed9554fd46688503d)] -> name: SubmitLogin]
+16:36:37.901 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+16:36:37.928 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+16:36:37.957 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+16:36:37.981 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+16:36:37.982 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (50680655eea0f17ed9554fd46688503d)] -> link text: Sign out]
+16:36:40.180 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (50680655eea0f17ed9554fd46688503d)] -> link text: Sign out]
+16:36:40.182 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+16:36:40.203 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+16:36:40.362 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+16:36:40.385 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+16:36:40.549 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+16:36:40.569 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+16:36:40.575 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (50680655eea0f17ed9554fd46688503d)] -> name: SubmitLogin]
+16:36:42.060 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (50680655eea0f17ed9554fd46688503d)] -> name: SubmitLogin]
+16:36:42.060 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+16:36:42.076 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+16:38:53.213 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+16:38:53.265 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+16:38:53.276 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (593e7246ef0b3f0291465acf274a9be3)] -> link text: Sign in]
+16:38:55.460 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (593e7246ef0b3f0291465acf274a9be3)] -> link text: Sign in]
+16:38:55.464 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+16:38:55.504 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+16:38:55.575 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+16:38:55.599 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+16:38:55.685 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+16:38:55.714 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+16:38:55.716 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (593e7246ef0b3f0291465acf274a9be3)] -> name: SubmitLogin]
+16:38:56.946 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (593e7246ef0b3f0291465acf274a9be3)] -> name: SubmitLogin]
+16:38:56.946 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+16:38:57.003 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+16:42:18.214 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+16:42:18.276 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+16:42:18.287 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b9b6243f19a200852aaaa88176ddc1f8)] -> link text: Sign in]
+16:42:20.763 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (b9b6243f19a200852aaaa88176ddc1f8)] -> link text: Sign in]
+16:42:20.776 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+16:42:20.805 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+16:42:20.926 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+16:42:20.953 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+16:42:21.049 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+16:42:21.072 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+16:42:21.075 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b9b6243f19a200852aaaa88176ddc1f8)] -> name: SubmitLogin]
+16:42:22.442 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (b9b6243f19a200852aaaa88176ddc1f8)] -> name: SubmitLogin]
+16:42:22.444 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+16:42:22.471 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+16:43:36.068 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+16:43:36.133 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+16:43:36.143 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0398be833628d9943ace6f9462b5c788)] -> link text: Sign in]
+16:43:39.884 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (0398be833628d9943ace6f9462b5c788)] -> link text: Sign in]
+16:43:39.894 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+16:43:39.940 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+16:43:40.102 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+16:43:40.134 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+16:43:40.255 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+16:43:40.284 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+16:43:40.293 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (0398be833628d9943ace6f9462b5c788)] -> name: SubmitLogin]
+16:43:42.334 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (0398be833628d9943ace6f9462b5c788)] -> name: SubmitLogin]
+16:43:42.334 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+16:43:42.362 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+17:09:03.237 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+17:09:03.293 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+17:09:03.303 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (6733fd09d617ad64044c2ff2b4f34616)] -> link text: Sign in]
+17:09:05.463 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (6733fd09d617ad64044c2ff2b4f34616)] -> link text: Sign in]
+17:10:07.451 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+17:10:07.528 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+17:10:07.539 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (30a3c50f5bd9841e7a99b25da8544be9)] -> link text: Sign in]
+17:10:09.673 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (30a3c50f5bd9841e7a99b25da8544be9)] -> link text: Sign in]
+17:10:09.677 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='search_query_top']
+17:10:09.713 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='search_query_top']
+17:17:24.039 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+17:17:24.083 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+17:17:24.091 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (e24f2f7c3e5e1c1bf3f50f0a191e7014)] -> link text: Sign in]
+17:17:26.545 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (e24f2f7c3e5e1c1bf3f50f0a191e7014)] -> link text: Sign in]
+17:17:26.546 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Contact us
+17:17:26.598 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Contact us
+17:17:26.599 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (e24f2f7c3e5e1c1bf3f50f0a191e7014)] -> link text: Contact us]
+17:17:27.999 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (e24f2f7c3e5e1c1bf3f50f0a191e7014)] -> link text: Contact us]
+17:57:32.783 [main] INFO  june28_Log4j2.LogTest - onStart method started
+17:57:32.874 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+17:57:55.026 [main] INFO  june28_Log4j2.LogTest - onStart method started
+17:58:06.545 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin4
+17:58:06.554 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+17:58:06.601 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+17:58:06.612 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (45c92ba2c9fcbc0ba469c934da233c72)] -> link text: Sign in]
+17:58:08.788 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (45c92ba2c9fcbc0ba469c934da233c72)] -> link text: Sign in]
+17:58:08.813 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+17:58:08.845 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+17:58:09.013 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+17:58:09.041 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+17:58:09.205 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+17:58:09.236 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+17:58:09.237 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (45c92ba2c9fcbc0ba469c934da233c72)] -> name: SubmitLogin]
+17:58:11.030 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (45c92ba2c9fcbc0ba469c934da233c72)] -> name: SubmitLogin]
+17:58:11.031 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+17:58:11.062 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+17:58:11.089 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+17:58:11.119 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+17:58:11.119 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (45c92ba2c9fcbc0ba469c934da233c72)] -> link text: Sign out]
+17:58:14.274 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (45c92ba2c9fcbc0ba469c934da233c72)] -> link text: Sign out]
+17:58:14.280 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+17:58:14.304 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+17:58:14.420 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+17:58:14.444 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+17:58:14.562 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+17:58:14.587 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+17:58:14.587 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (45c92ba2c9fcbc0ba469c934da233c72)] -> name: SubmitLogin]
+17:58:16.484 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (45c92ba2c9fcbc0ba469c934da233c72)] -> name: SubmitLogin]
+17:58:16.485 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+17:58:16.523 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+17:58:16.549 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+17:58:16.574 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+17:58:16.574 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (45c92ba2c9fcbc0ba469c934da233c72)] -> link text: Sign out]
+17:58:18.743 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (45c92ba2c9fcbc0ba469c934da233c72)] -> link text: Sign out]
+17:58:18.748 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+17:58:18.766 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+17:58:18.900 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+17:58:18.919 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+17:58:19.029 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+17:58:19.049 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+17:58:19.050 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (45c92ba2c9fcbc0ba469c934da233c72)] -> name: SubmitLogin]
+17:58:20.931 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (45c92ba2c9fcbc0ba469c934da233c72)] -> name: SubmitLogin]
+17:58:20.931 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+17:58:21.010 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+17:58:21.049 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin4
+17:58:33.663 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin5
+17:58:33.665 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+17:58:33.696 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+17:58:33.697 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c50d9e2acf5a4a2fb6f70db6e6093b60)] -> link text: Sign in]
+17:58:39.364 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (c50d9e2acf5a4a2fb6f70db6e6093b60)] -> link text: Sign in]
+17:58:39.366 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+17:58:39.406 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+17:58:39.525 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+17:58:39.554 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+17:58:39.692 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+17:58:39.713 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+17:58:39.713 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (c50d9e2acf5a4a2fb6f70db6e6093b60)] -> name: SubmitLogin]
+17:58:44.474 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (c50d9e2acf5a4a2fb6f70db6e6093b60)] -> name: SubmitLogin]
+17:58:44.478 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+17:58:44.522 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+17:58:44.547 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin5
+17:58:44.910 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+18:04:13.869 [main] INFO  june28_Log4j2.LogTest - onStart method started
+18:04:27.007 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin4
+18:04:27.014 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+18:04:27.051 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+18:04:27.060 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (36d6d5b12ad7bdf4ae018a6d5f419ca5)] -> link text: Sign in]
+18:04:29.285 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (36d6d5b12ad7bdf4ae018a6d5f419ca5)] -> link text: Sign in]
+18:04:29.301 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+18:04:29.341 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+18:04:29.496 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+18:04:29.526 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+18:04:29.649 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+18:04:29.680 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+18:04:29.680 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (36d6d5b12ad7bdf4ae018a6d5f419ca5)] -> name: SubmitLogin]
+18:04:32.465 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (36d6d5b12ad7bdf4ae018a6d5f419ca5)] -> name: SubmitLogin]
+18:04:32.465 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+18:04:32.494 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+18:04:32.521 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+18:04:32.555 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+18:04:32.555 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (36d6d5b12ad7bdf4ae018a6d5f419ca5)] -> link text: Sign out]
+18:04:34.946 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (36d6d5b12ad7bdf4ae018a6d5f419ca5)] -> link text: Sign out]
+18:04:34.965 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+18:04:34.987 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+18:04:35.111 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+18:04:35.136 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+18:04:35.246 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+18:04:35.272 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+18:04:35.273 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (36d6d5b12ad7bdf4ae018a6d5f419ca5)] -> name: SubmitLogin]
+18:04:37.421 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (36d6d5b12ad7bdf4ae018a6d5f419ca5)] -> name: SubmitLogin]
+18:04:37.421 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+18:04:37.441 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+18:04:37.463 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+18:04:37.483 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+18:04:37.484 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (36d6d5b12ad7bdf4ae018a6d5f419ca5)] -> link text: Sign out]
+18:04:39.612 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (36d6d5b12ad7bdf4ae018a6d5f419ca5)] -> link text: Sign out]
+18:04:39.618 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+18:04:39.635 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+18:04:39.756 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+18:04:39.782 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+18:04:39.895 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+18:04:39.915 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+18:04:39.915 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (36d6d5b12ad7bdf4ae018a6d5f419ca5)] -> name: SubmitLogin]
+18:04:41.091 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (36d6d5b12ad7bdf4ae018a6d5f419ca5)] -> name: SubmitLogin]
+18:04:41.091 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+18:04:41.110 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+18:04:41.135 [main] ERROR june28_Log4j2.LogTest - onTestFailure Methodlogin4
+18:04:50.336 [main] INFO  june28_Log4j2.LogTest - New Test Startedlogin5
+18:04:50.339 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+18:04:50.377 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+18:04:50.378 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (36bb04c0833f42c0c5a9643f6e6a4f2c)] -> link text: Sign in]
+18:04:52.601 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (36bb04c0833f42c0c5a9643f6e6a4f2c)] -> link text: Sign in]
+18:04:52.602 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+18:04:52.636 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+18:04:52.755 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+18:04:52.779 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+18:04:52.905 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+18:04:52.929 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+18:04:52.929 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (36bb04c0833f42c0c5a9643f6e6a4f2c)] -> name: SubmitLogin]
+18:04:54.925 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (36bb04c0833f42c0c5a9643f6e6a4f2c)] -> name: SubmitLogin]
+18:04:54.932 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+18:04:54.953 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+18:04:54.975 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodlogin5
+18:04:55.190 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+18:07:42.670 [main] INFO  june28_Log4j2.LogTest - onStart method started
+18:07:53.633 [main] INFO  june28_Log4j2.LogTest - New Test Startedcontactus
+18:07:53.639 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+18:07:53.677 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+18:07:53.686 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d610662a4abba30156172525d8404969)] -> link text: Sign in]
+18:07:56.328 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (d610662a4abba30156172525d8404969)] -> link text: Sign in]
+18:07:56.331 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Contact us
+18:07:56.368 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Contact us
+18:07:56.369 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (d610662a4abba30156172525d8404969)] -> link text: Contact us]
+18:07:57.807 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (d610662a4abba30156172525d8404969)] -> link text: Contact us]
+18:07:57.815 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodcontactus
+18:07:58.285 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+08:23:29.130 [main] INFO  june28_Log4j2.LogTest - onStart method started
+08:23:42.274 [main] INFO  june28_Log4j2.LogTest - New Test Startedcontactus
+08:23:42.284 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+08:23:42.316 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+08:23:42.334 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (83c7a68be2e53e74e629dca9ee327c67)] -> link text: Sign in]
+08:23:45.681 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (83c7a68be2e53e74e629dca9ee327c67)] -> link text: Sign in]
+08:23:45.685 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Contact us
+08:23:45.726 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Contact us
+08:23:45.727 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (83c7a68be2e53e74e629dca9ee327c67)] -> link text: Contact us]
+08:23:47.271 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (83c7a68be2e53e74e629dca9ee327c67)] -> link text: Contact us]
+08:23:47.282 [main] INFO  june28_Log4j2.LogTest - onTestSuccess Methodcontactus
+08:23:47.867 [main] INFO  june28_Log4j2.LogTest - onFinish method started
+21:13:43.717 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+21:13:44.110 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+21:13:44.133 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (210e0a1be6a0f549f472b9a06da71ab3)] -> link text: Sign in]
+21:13:44.750 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+21:13:44.827 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+21:13:44.838 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b4ed392faa46f55c91eab5e86e630572)] -> link text: Sign in]
+21:13:48.349 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (210e0a1be6a0f549f472b9a06da71ab3)] -> link text: Sign in]
+21:13:48.378 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+21:13:48.409 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+21:13:48.816 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+21:13:48.855 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+21:13:49.019 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+21:13:49.054 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+21:13:49.056 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (210e0a1be6a0f549f472b9a06da71ab3)] -> name: SubmitLogin]
+21:13:49.656 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (b4ed392faa46f55c91eab5e86e630572)] -> link text: Sign in]
+21:13:49.675 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+21:13:49.706 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+21:13:49.893 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+21:13:49.923 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+21:13:50.044 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+21:13:50.068 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+21:13:50.072 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b4ed392faa46f55c91eab5e86e630572)] -> name: SubmitLogin]
+21:13:53.803 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (210e0a1be6a0f549f472b9a06da71ab3)] -> name: SubmitLogin]
+21:13:53.804 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+21:13:53.843 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+21:13:53.888 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+21:13:53.918 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+21:13:53.918 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (210e0a1be6a0f549f472b9a06da71ab3)] -> link text: Sign out]
+21:13:54.511 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (b4ed392faa46f55c91eab5e86e630572)] -> name: SubmitLogin]
+21:13:54.511 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+21:13:54.538 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+21:13:54.564 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+21:13:54.592 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+21:13:54.593 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b4ed392faa46f55c91eab5e86e630572)] -> link text: Sign out]
+21:13:57.126 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (210e0a1be6a0f549f472b9a06da71ab3)] -> link text: Sign out]
+21:13:57.127 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+21:13:57.145 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+21:13:57.308 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+21:13:57.342 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+21:13:57.429 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (b4ed392faa46f55c91eab5e86e630572)] -> link text: Sign out]
+21:13:57.431 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+21:13:57.452 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+21:13:57.513 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+21:13:57.539 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+21:13:57.542 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (210e0a1be6a0f549f472b9a06da71ab3)] -> name: SubmitLogin]
+21:13:57.648 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+21:13:57.681 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+21:13:57.862 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+21:13:57.882 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+21:13:57.885 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b4ed392faa46f55c91eab5e86e630572)] -> name: SubmitLogin]
+21:14:00.462 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (b4ed392faa46f55c91eab5e86e630572)] -> name: SubmitLogin]
+21:14:00.462 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+21:14:00.480 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+21:14:00.504 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+21:14:00.526 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+21:14:00.526 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b4ed392faa46f55c91eab5e86e630572)] -> link text: Sign out]
+21:14:00.680 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (210e0a1be6a0f549f472b9a06da71ab3)] -> name: SubmitLogin]
+21:14:00.680 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+21:14:00.700 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+21:14:00.724 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+21:14:00.746 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+21:14:00.746 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (210e0a1be6a0f549f472b9a06da71ab3)] -> link text: Sign out]
+21:14:04.198 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (b4ed392faa46f55c91eab5e86e630572)] -> link text: Sign out]
+21:14:04.203 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+21:14:04.232 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+21:14:04.419 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+21:14:04.453 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+21:14:04.480 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (210e0a1be6a0f549f472b9a06da71ab3)] -> link text: Sign out]
+21:14:04.482 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+21:14:04.510 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+21:14:04.591 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+21:14:04.621 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+21:14:04.624 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (b4ed392faa46f55c91eab5e86e630572)] -> name: SubmitLogin]
+21:14:04.728 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+21:14:04.832 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+21:14:04.985 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+21:14:05.008 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+21:14:05.010 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (210e0a1be6a0f549f472b9a06da71ab3)] -> name: SubmitLogin]
+21:14:06.834 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (b4ed392faa46f55c91eab5e86e630572)] -> name: SubmitLogin]
+21:14:06.834 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+21:14:06.857 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+21:14:06.975 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (210e0a1be6a0f549f472b9a06da71ab3)] -> name: SubmitLogin]
+21:14:06.976 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+21:14:07.001 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+21:15:42.258 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign in
+21:15:42.330 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign in
+21:15:42.344 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (60f9675f64cd330559d9acd32f2461c5)] -> link text: Sign in]
+21:15:45.914 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (60f9675f64cd330559d9acd32f2461c5)] -> link text: Sign in]
+21:15:45.929 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+21:15:45.967 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+21:15:46.148 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+21:15:46.179 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+21:15:46.320 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+21:15:46.347 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+21:15:46.370 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (60f9675f64cd330559d9acd32f2461c5)] -> name: SubmitLogin]
+21:15:48.132 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (60f9675f64cd330559d9acd32f2461c5)] -> name: SubmitLogin]
+21:15:48.132 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+21:15:48.174 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+21:15:48.208 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+21:15:48.239 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+21:15:48.239 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (60f9675f64cd330559d9acd32f2461c5)] -> link text: Sign out]
+21:15:50.908 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (60f9675f64cd330559d9acd32f2461c5)] -> link text: Sign out]
+21:15:50.909 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+21:15:50.939 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='email']
+21:15:51.054 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='passwd']
+21:15:51.078 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //input[@id='passwd']
+21:15:51.195 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.name: SubmitLogin
+21:15:51.220 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.name: SubmitLogin
+21:15:51.223 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (60f9675f64cd330559d9acd32f2461c5)] -> name: SubmitLogin]
+21:15:53.885 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (60f9675f64cd330559d9acd32f2461c5)] -> name: SubmitLogin]
+21:15:53.885 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //h1[@class='page-heading']
+21:15:53.903 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.xpath: //h1[@class='page-heading']
+21:15:53.926 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.linkText: Sign out
+21:15:53.945 [main] INFO  june28_Log4j2.LogTest - Found Element By : By.linkText: Sign out
+21:15:53.948 [main] INFO  june28_Log4j2.LogTest - Trying to click on: [[ChromeDriver: chrome on WINDOWS (60f9675f64cd330559d9acd32f2461c5)] -> link text: Sign out]
+21:15:56.442 [main] INFO  june28_Log4j2.LogTest - Clicked on: [[ChromeDriver: chrome on WINDOWS (60f9675f64cd330559d9acd32f2461c5)] -> link text: Sign out]
+21:15:56.445 [main] INFO  june28_Log4j2.LogTest - Trying to find Element By : By.xpath: //input[@id='email']
+21:15:56.507 [main] INFO  june28_Log4j2.LogTest - Exception occured: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=92.0.4515.107)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HOME', ip: '192.168.1.11', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.107, chrome: {chromedriverVersion: 91.0.4472.19 (1bf021f248676..., userDataDir: C:\Users\Kashyap\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:51370}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 60f9675f64cd330559d9acd32f2461c5
+*** Element info: {Using=xpath, value=//input[@id='email']}
